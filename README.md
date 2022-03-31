@@ -1,10 +1,10 @@
 ************ FOR REVIEWING PURPOSES ONLY. PLEASE DO NOT DISTRIBUTE. ************
 
-# Topological data analysis for tumor histology prediction
+# Topological data analysis for lung tumor histology prediction
 
-This folder contains the source code for Nature Machine Intelligence submission:
+This folder contains the source code for npj Digital Medicine submission:
 
-*Topological data analysis of CT scan images for lung tumor histology prediction*
+*Topological data analysis of thoracic radiographic images shows improved radiomics-based lung tumor histology prediction*
 
 # Setup
 
