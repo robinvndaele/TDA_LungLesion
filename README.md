@@ -2,7 +2,7 @@
 
 # Topological data analysis for lung tumor histology prediction
 
-This folder contains the source code for npj Digital Medicine submission:
+This folder contains the source code for submission:
 
 *Topological data analysis of thoracic radiographic images shows improved radiomics-based lung tumor histology prediction*
 
