@@ -1,5 +1,3 @@
-************ FOR REVIEWING PURPOSES ONLY. PLEASE DO NOT DISTRIBUTE. ************
-
 # Topological data analysis for lung tumor histology prediction
 
 This folder contains the source code for submission:
